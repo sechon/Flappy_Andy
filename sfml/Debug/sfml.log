@@ -1,0 +1,137 @@
+﻿  FlappyAndy.cpp
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(93): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\flappyandy.cpp(172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\main.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\main.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Rules.cpp
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\rules.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+  Points.cpp
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(39): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(40): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(43): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(47): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(48): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(49): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(161): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(163): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(218): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(220): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(221): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(222): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(223): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(225): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(226): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(276): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(277): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(278): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(279): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(280): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(281): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(282): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(283): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(284): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(285): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(286): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(287): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(288): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(292): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(293): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(294): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(295): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(297): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(298): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(300): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(338): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(341): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(342): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(344): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(345): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(346): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(347): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(348): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(349): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(395): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(397): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(398): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(399): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(400): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(401): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(403): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(404): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(405): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(406): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(455): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(460): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(461): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(462): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\points.cpp(464): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pipe.cpp
+c:\users\ichibahn\documents\github\flappy-andy - copy\sfml\pipe.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Network.cpp
+  CreateSprite.cpp
+  Andy.cpp
+  Generating Code...
+  sfml.vcxproj -> C:\Users\Ichibahn\Documents\GitHub\Flappy-Andy - Copy\sfml\Debug\sfml.exe
+  sfml.vcxproj -> C:\Users\Ichibahn\Documents\GitHub\Flappy-Andy - Copy\sfml\Debug\sfml.pdb (Full PDB)
